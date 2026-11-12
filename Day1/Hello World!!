@@ -1,6 +1,26 @@
-class Codechef {
+class Main {
     public static void main(String[] args) {
 	    // Printing a Hello World!! message
         System.out.println("Hello World!!");   
     }
 }
+
+
+
+// class Main – Defines a class named Main.
+
+
+
+main() – Starting point of Java program execution.
+
+
+
+System.out.println() – Prints text on the screen and moves to the next line.
+
+
+
+// – Used to write comments; ignored by the compiler.
+
+
+
+; – Marks the end of a statement.
